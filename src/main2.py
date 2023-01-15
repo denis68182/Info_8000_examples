@@ -7,5 +7,5 @@ with open("res/main2.txt","w") as f:
 	x =2,
 	y = 3,
 	z = x + y,
-	print("The value of z is", z)
+	print("The value of z is after calculation", z)
 
