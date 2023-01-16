@@ -12,5 +12,7 @@ file.write(" Lets make it in TZ. You will enjoy Mountain Kilimanjaro.\n")
 file.write("Dont forget to visit MOrogoro, Bigwa Stenda.\n")
 file.write(f"There are {num_files} in the data folder\n")
 file.write(f"There are {num_files2} in the source/program code folder \n")
-file.write("Good")
+file.write("Good\n")
+file.write("Make it home")
+
 file.close()
