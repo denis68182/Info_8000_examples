@@ -13,6 +13,7 @@ file.write("Dont forget to visit MOrogoro, Bigwa Stenda.\n")
 file.write(f"There are {num_files} in the data folder\n")
 file.write(f"There are {num_files2} in the source/program code folder \n")
 file.write("Good\n")
-file.write("Make it home")
+file.write("Make it home.")
+file.write("You will enjoy")
 
 file.close()
